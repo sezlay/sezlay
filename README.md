@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/uf6otmhss727cEcHn5/giphy.gif" width="400"/>
+<div id="header" align="center" style="width:200px;height:100px;" >
+  <img src="https://media.giphy.com/media/yYOhkHy4eO6jhlfcBM/giphy.gif"/>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/serenapark0">
