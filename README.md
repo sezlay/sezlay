@@ -16,7 +16,7 @@
 
 <ul>
 <li> 👀 I’m trying to improve my computing skills here! </li>
-<li> 🌱 I’m currently learning C, C++ </li>
+<li> 🌱 I’m currently learning C, C++, Python </li>
 <li> ✨ Feel free to share any tips on how to improve my code </li>
 <li> ⚡ Fun fact: I'm also a qualified eyelash technician </li>
 </ul>
